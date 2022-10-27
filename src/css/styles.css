@@ -49,6 +49,7 @@ input {
   position: absolute;
   right: 0;
   cursor: pointer;
+  /* background-image: url('/src/images/search.svg#icon-search'); */
 }
 .svg {
   width: 15px;
