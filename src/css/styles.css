@@ -18,6 +18,7 @@ body {
   position: fixed;
   top: 0;
   background: rgba(97, 114, 226, 0.674);
+  z-index: 1;
 }
 
 .search-form {
@@ -134,4 +135,12 @@ html {
   text-align: center;
   font-size: 14px;
   color: rgba(37, 84, 204);
+}
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
 }
